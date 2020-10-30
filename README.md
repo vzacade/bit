@@ -1,1 +1,1 @@
-ua ru
+ua ru.
